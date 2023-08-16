@@ -1,1 +1,1 @@
-# rithick.github.io
+# html.github.io
